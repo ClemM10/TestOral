@@ -14,6 +14,8 @@ Exercices
 
 Noter ici la formulation du prof sur les exercices
 
+```markdown
+
 *
 **
 ***
@@ -24,6 +26,7 @@ Noter ici la formulation du prof sur les exercices
 ********
 *********
 **********
+```
 
 Exercices 2 
 

@@ -73,7 +73,7 @@ for ( int row=1; row<=MAX; row++)
 {
 for ( int star =1; star<=row ; star++)
 {
-System.out.print(”∗”);
+System.out.print("*");
 }
 System.out.println( ) ;
 }

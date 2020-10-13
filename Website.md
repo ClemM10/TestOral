@@ -12,8 +12,6 @@ Les exercices seront principalement basés sur l'apprentissage des boucles for a
 
 Exercices 
 
-Noter ici la formulation du prof sur les exercices
-
 ```markdown
 
 *
@@ -26,9 +24,12 @@ Noter ici la formulation du prof sur les exercices
 ********
 *********
 **********
+
 ```
 
 Exercices 2 
+
+```markdown
 
 **********
 *********
@@ -40,7 +41,12 @@ Exercices 2
 ***
 **
 *
+
+```
+
 Exercices 3
+
+```markdown
 
          *
         **
@@ -52,9 +58,13 @@ Exercices 3
   ********
  *********
 **********
+
+```
 
 Exercices 4 
 
+```markdown
+
 **********
  *********
   ********
@@ -65,23 +75,32 @@ Exercices 4
        ***
         **
          *
+         
+```
 
-Solutions
+## Solutions
 
-Exercice 1
+# Exercice 1
+
+```markdown
+
 public class Ex1 {
 public static void main ( String [] args) {
-final int MAX = 10;
+final int MAX = 1 0;
 for ( int row=1; row<=MAX; row++)
 {
 for ( int star =1; star<=row ; star++)
 {
-System.out.print("*");
+System.out.print(”∗”);
 }
 System.out.println( ) ;
 }
 }
 }
+
+
+```
+
 
 Exercice 2
 Exercice 3
